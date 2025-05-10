@@ -25,3 +25,11 @@ O bot foca em centralizar o acesso às principais notícias do dia do agronegóc
 Este projeto foi desenvolvido com base no vídeo do canal [aulasdev](https://www.youtube.com/@aulasdev):
 
 🎥 *[Extraindo Dados da Web com Python e BeautifulSoup: Web Scraping do Zero](https://www.youtube.com/watch?v=nvpNj5kqTn0&ab_channel=aulasdev)*
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+###
