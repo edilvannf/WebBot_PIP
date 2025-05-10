@@ -1,4 +1,4 @@
-# <img src="imagens/vaquinha.png" alt="Vaca" width="60" /> AgroBot Scraper
+# <img src="imagens/vaquinha.png" alt="Vaca" width="60" /> AgroNews Bot
 
 Um script simples em Python que coleta as últimas notícias do site Globo Rural usando `requests` e `BeautifulSoup`.
 
