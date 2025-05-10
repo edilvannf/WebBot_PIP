@@ -19,3 +19,4 @@ for div in noticias:
             link = link_noticia['href']
             print(f'👉 *{texto}*\n🔗 {link}\n\n')
 #oi edilvan
+#
